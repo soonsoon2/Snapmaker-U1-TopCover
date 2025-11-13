@@ -8,11 +8,6 @@ DIY top cover project for Snapmaker U1 3D printer.
 
 This project shares design and printable data for Snapmaker U1 top cover based on 3D scanner measurements.
 
-## 📺 Related Videos
-
-- **Snapmaker U1 Unboxing & Review**: [Watch Video](https://youtu.be/_z2r_KzoY_w)
-- **Day 2 Usage & Initial Precautions**: [Watch Video](https://youtu.be/NYfomqTddzs)
-
 ## 📸 Project Gallery
 
 ### 3D Scanning Process
@@ -59,6 +54,12 @@ This project shares design and printable data for Snapmaker U1 top cover based o
 ### SoonsoonFrameVer1
 Frame Version 1 designed for use with plastic sheeting cover
 
+**Version 1 Features:**
+- **Budget-friendly**: Designed to create a top cover at the lowest possible cost
+- **Frame-only design**: Print the frame and attach large plastic sheeting to prevent heat loss
+- **Heat retention**: Keeps internal heat from escaping (noise reduction: ❌)
+- **⚠️ Temperature Warning**: Do not use in environments above 20°C (68°F) - may damage U1 or reduce print quality
+
 #### BottomGuide
 - Bottom guide parts (divided into 8 parts)
 - Printable on 300x300mm+ printers
@@ -95,6 +96,14 @@ For commercial use or redistribution, prior permission from the creator is requi
 1. Reference the `SizeData` folder to create your own custom design
 2. Or directly print the STL files from `SoonsoonFrameVer1` folder
 3. Cover the printed frame with plastic sheeting to use as top cover
+
+## 📺 Related Videos
+
+### Snapmaker U1 Unboxing & Review
+[![Snapmaker U1 Unboxing & Review](https://img.youtube.com/vi/_z2r_KzoY_w/maxresdefault.jpg)](https://youtu.be/_z2r_KzoY_w)
+
+### Day 2 Usage & Initial Precautions
+[![Day 2 Usage & Initial Precautions](https://img.youtube.com/vi/NYfomqTddzs/maxresdefault.jpg)](https://youtu.be/NYfomqTddzs)
 
 ## 💖 Support This Project
 
