@@ -68,7 +68,7 @@
 이 프로젝트가 도움이 되었다면 후원을 고려해주세요:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-후원-yellow.svg?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/soonsoon)
-[![PayPal](https://img.shields.io/badge/PayPal-기부-blue.svg?style=flat-square&logo=paypal)](https://paypal.me/soonsoon)
+[![PayPal](https://img.shields.io/badge/PayPal-기부-blue.svg?style=flat-square&logo=paypal)](https://paypal.me/soonsoon2)
 
 ## 📞 문의
 

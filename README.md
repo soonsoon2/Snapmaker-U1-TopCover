@@ -68,7 +68,7 @@ For commercial use or redistribution, prior permission from the creator is requi
 If this project helped you, consider supporting it:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/soonsoon)
-[![PayPal](https://img.shields.io/badge/PayPal-donate-blue.svg?style=flat-square&logo=paypal)](https://paypal.me/soonsoon)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue.svg?style=flat-square&logo=paypal)](https://paypal.me/soonsoon2)
 
 ## 📞 Contact
 
