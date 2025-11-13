@@ -8,7 +8,10 @@
 
 3D 스캐너로 측정한 데이터를 바탕으로 제작된 스냅메이커 U1용 탑커버 설계 및 출력 데이터를 공유합니다.
 
-📺 **스냅메이커 U1 개봉기 영상**: [Snapmaker U1 Unboxing & Review](https://youtu.be/_z2r_KzoY_w?si=Kui_kOlLDib2uoaL)
+## 📺 관련 영상
+
+- **스냅메이커 U1 개봉기 및 사용기**: [영상 보기](https://youtu.be/_z2r_KzoY_w)
+- **2일차 사용기 및 초기 사용시 주의사항**: [영상 보기](https://youtu.be/NYfomqTddzs)
 
 ## 📸 프로젝트 갤러리
 
@@ -102,7 +105,10 @@
 
 ## 📞 문의
 
-상업적 사용이나 재배포 관련 문의사항이 있으시면 이슈를 통해 연락해주세요.
+상업적 사용이나 재배포 관련 문의:
+- **GitHub**: soonsoon
+- **이메일**: soonsoon@soonsoons.com
+- **이슈**: 이 저장소에 이슈를 남겨주세요
 
 ---
 

@@ -8,7 +8,10 @@ DIY top cover project for Snapmaker U1 3D printer.
 
 This project shares design and printable data for Snapmaker U1 top cover based on 3D scanner measurements.
 
-📺 **Watch the Snapmaker U1 Unboxing Video**: [Snapmaker U1 Unboxing & Review](https://youtu.be/_z2r_KzoY_w?si=Kui_kOlLDib2uoaL)
+## 📺 Related Videos
+
+- **Snapmaker U1 Unboxing & Review**: [Watch Video](https://youtu.be/_z2r_KzoY_w)
+- **Day 2 Usage & Initial Precautions**: [Watch Video](https://youtu.be/NYfomqTddzs)
 
 ## 📸 Project Gallery
 
@@ -102,7 +105,10 @@ If this project helped you, consider supporting it:
 
 ## 📞 Contact
 
-For commercial use or redistribution inquiries, please contact through issues.
+For commercial use or redistribution inquiries:
+- **GitHub**: soonsoon
+- **Email**: soonsoon@soonsoons.com
+- **Issues**: Feel free to open an issue on this repository
 
 ---
 
