@@ -1,0 +1,21 @@
+# GitHub 후원 설정 파일
+# 사용 가능한 플랫폼들:
+
+# GitHub Sponsors (GitHub 계정명)
+# github: soonsoon2
+
+# 기타 후원 플랫폼들 (필요한 것만 주석 해제하고 사용)
+# patreon: your_patreon_username
+# open_collective: your_opencollective_username
+# ko_fi: your_kofi_username
+# tidelift: npm/package-name
+# community_bridge: project-name
+# liberapay: your_liberapay_username
+# issuehunt: your_issuehunt_username
+# otechie: your_otechie_username
+# lfx_crowdfunding: project-name
+
+# 커스텀 후원 링크 (최대 4개)
+custom: 
+  - "https://www.buymeacoffee.com/soonsoon"
+  - "https://paypal.me/soonsoon"

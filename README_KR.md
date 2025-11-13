@@ -63,6 +63,13 @@
 2. 또는 `SoonsoonFrameVer1` 폴더의 STL 파일들을 직접 출력
 3. 출력된 프레임에 비닐을 씌워서 탑커버로 사용
 
+## 💖 프로젝트 후원
+
+이 프로젝트가 도움이 되었다면 후원을 고려해주세요:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-후원-yellow.svg?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/soonsoon)
+[![PayPal](https://img.shields.io/badge/PayPal-기부-blue.svg?style=flat-square&logo=paypal)](https://paypal.me/soonsoon)
+
 ## 📞 문의
 
 상업적 사용이나 재배포 관련 문의사항이 있으시면 이슈를 통해 연락해주세요.

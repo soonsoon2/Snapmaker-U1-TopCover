@@ -63,6 +63,13 @@ For commercial use or redistribution, prior permission from the creator is requi
 2. Or directly print the STL files from `SoonsoonFrameVer1` folder
 3. Cover the printed frame with plastic sheeting to use as top cover
 
+## 💖 Support This Project
+
+If this project helped you, consider supporting it:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow.svg?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/soonsoon)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue.svg?style=flat-square&logo=paypal)](https://paypal.me/soonsoon)
+
 ## 📞 Contact
 
 For commercial use or redistribution inquiries, please contact through issues.
