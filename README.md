@@ -10,6 +10,36 @@ This project shares design and printable data for Snapmaker U1 top cover based o
 
 📺 **Watch the Snapmaker U1 Unboxing Video**: [Snapmaker U1 Unboxing & Review](https://youtu.be/_z2r_KzoY_w?si=Kui_kOlLDib2uoaL)
 
+## 📸 Project Gallery
+
+### 3D Scanning Process
+![3D Scanning](Photos/3dscan.png)
+*3D scanning the Snapmaker U1 with Revopoint MetroX*
+
+### Frame Assembly & Testing
+<table>
+  <tr>
+    <td><img src="Photos/test1.png" alt="Assembly Test" width="300"/></td>
+    <td><img src="Photos/installation.png" alt="Installation" width="300"/></td>
+  </tr>
+  <tr>
+    <td><em>Frame assembly test</em></td>
+    <td><em>Installed on Snapmaker U1</em></td>
+  </tr>
+</table>
+
+### Performance Test Results
+<table>
+  <tr>
+    <td><img src="Photos/test2.png" alt="Cold Weather Test" width="300"/></td>
+    <td><img src="Photos/result1.png" alt="Temperature Results" width="300"/></td>
+  </tr>
+  <tr>
+    <td><em>Cold weather test (10°C ambient temperature)</em></td>
+    <td><em>Chamber temperature reached 26°C</em></td>
+  </tr>
+</table>
+
 ![SoonSoon Frame Version 1](soonsoon_topcover_1.jpg)
 *SoonSoon Frame Version 1 - Ready to use with plastic sheeting*
 

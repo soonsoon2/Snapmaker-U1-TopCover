@@ -10,6 +10,36 @@
 
 📺 **스냅메이커 U1 개봉기 영상**: [Snapmaker U1 Unboxing & Review](https://youtu.be/_z2r_KzoY_w?si=Kui_kOlLDib2uoaL)
 
+## 📸 프로젝트 갤러리
+
+### 3D 스캔 과정
+![3D 스캔](Photos/3dscan.png)
+*레보포인트 매트로X로 스냅메이커 U1 스캔 중*
+
+### 프레임 조립 및 테스트
+<table>
+  <tr>
+    <td><img src="Photos/test1.png" alt="조립 테스트" width="300"/></td>
+    <td><img src="Photos/installation.png" alt="설치" width="300"/></td>
+  </tr>
+  <tr>
+    <td><em>프레임 가조립 테스트</em></td>
+    <td><em>스냅메이커 U1에 설치</em></td>
+  </tr>
+</table>
+
+### 성능 테스트 결과
+<table>
+  <tr>
+    <td><img src="Photos/test2.png" alt="저온 테스트" width="300"/></td>
+    <td><img src="Photos/result1.png" alt="온도 결과" width="300"/></td>
+  </tr>
+  <tr>
+    <td><em>저온 테스트 (외기온도 10°C)</em></td>
+    <td><em>챔버 내부 온도 26°C 달성</em></td>
+  </tr>
+</table>
+
 ![SoonSoon Frame Version 1](soonsoon_topcover_1.jpg)
 *SoonSoon Frame Version 1 - 비닐 씌워서 사용 가능*
 
