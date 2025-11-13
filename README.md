@@ -1,5 +1,7 @@
 # Snapmaker U1 DIY Top Cover
 
+*Read this in other languages: [English](README.md), [한국어](README_KR.md)*
+
 DIY top cover project for Snapmaker U1 3D printer.
 
 ## 📋 Project Overview
