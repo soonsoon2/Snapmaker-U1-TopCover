@@ -103,7 +103,7 @@ For commercial use or redistribution, prior permission from the creator is requi
 [![Snapmaker U1 Unboxing & Review](https://img.youtube.com/vi/_z2r_KzoY_w/maxresdefault.jpg)](https://youtu.be/_z2r_KzoY_w)
 
 ### Day 2 Usage & Initial Precautions
-[![Day 2 Usage & Initial Precautions](https://img.youtube.com/vi/NYfomqTddzs/maxresdefault.jpg)](https://youtu.be/NYfomqTddzs)
+[![Day 2 Usage & Initial Precautions](https://img.youtube.com/vi/NYfomqTddzs/hqdefault.jpg)](https://youtu.be/NYfomqTddzs)
 
 ## 💖 Support This Project
 

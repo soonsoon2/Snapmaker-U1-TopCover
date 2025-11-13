@@ -103,7 +103,7 @@
 [![스냅메이커 U1 개봉기 및 사용기](https://img.youtube.com/vi/_z2r_KzoY_w/maxresdefault.jpg)](https://youtu.be/_z2r_KzoY_w)
 
 ### 2일차 사용기 및 초기 사용시 주의사항
-[![2일차 사용기 및 초기 사용시 주의사항](https://img.youtube.com/vi/NYfomqTddzs/maxresdefault.jpg)](https://youtu.be/NYfomqTddzs)
+[![2일차 사용기 및 초기 사용시 주의사항](https://img.youtube.com/vi/NYfomqTddzs/hqdefault.jpg)](https://youtu.be/NYfomqTddzs)
 
 ## 💖 프로젝트 후원
 
